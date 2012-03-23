@@ -38,19 +38,19 @@ l::set(array(
 
   // home
   'home.siteinfo' => 'Site info',
-  'home.edit' => 'Edit',
-  'home.warning.title' => 'Please fix first!',
-  'home.warning.permissions.title' => 'Permissions',
-  'home.warning.permissions.text' => 'The permissions in your content directory are not set properly. Please change the permissions for all folders to <strong>0755</strong> and for all files to <strong>0666</strong>',
-  'home.warning.blueprints.title' => 'Blueprints',
-  'home.warning.blueprints.text' => 'There are no blueprints available for the following templates<br /> Read more about <a href="http://getkirby.com/panel/blueprints">how to install blueprints for your templates</a>',
+  'home.edit' => 'Bewerk',
+  'home.warning.title' => 'AUB eerst aanpassen!',
+  'home.warning.permissions.title' => 'Bevoegdheden',
+  'home.warning.permissions.text' => 'De bevoegdheden in je inhoud map zijn niet juist toegekend. Verander alstublieft de bevoegdheden voor alle mappen naar  <strong>0755</strong> en voor alle bestanden naar <strong>0666</strong>',
+  'home.warning.blueprints.title' => 'Blauwdrukken',
+  'home.warning.blueprints.text' => 'Er zijn geen blauwdrukken aanwezig voor de volgende sjablonen<br /> Lees meer over <a href="http://getkirby.com/panel/blueprints">how to install blueprints for your templates</a>',
   'home.warning.thumbs.title' => 'Thumbnails',
-  'home.warning.thumbs.text' => 'Please add a <strong>thumbs</strong> directory to the main directory of your site and change its permissions to <strong>0755</strong>',
+  'home.warning.thumbs.text' => 'Voeg een <strong>thumbs</strong> map toe in de hoofd map van je site en verander de bevoegdheden ervan naar <strong>0755</strong>',
   
   // siteinfo
-  'siteinfo.button' => 'Save',
-  'siteinfo.errors.title' => 'Please add a title',
-  'siteinfo.errors.permissions' => '<strong>content/site.txt</strong> is not writable. <br />Please change its permissions and try again.',
+  'siteinfo.button' => 'Bewaar',
+  'siteinfo.errors.title' => 'AUB een titel toevoegen',
+  'siteinfo.errors.permissions' => '<strong>content/site.txt</strong> is niet schrijfbaar. <br />Verander AUB de bevoegdheden en probeer nog eens.',
   
   // content form 
   'content.save' => 'Save',
