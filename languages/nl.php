@@ -13,7 +13,7 @@ l::set(array(
   
   // subheader
   'subheader.home' => 'Home',  
-  'subheader.site' => 'Jouw Site',
+  'subheader.site' => 'Uw Site',
   'subheader.info' => 'Info',
 
   // tabs
@@ -41,11 +41,11 @@ l::set(array(
   'home.edit' => 'Bewerk',
   'home.warning.title' => 'AUB eerst aanpassen!',
   'home.warning.permissions.title' => 'Bevoegdheden',
-  'home.warning.permissions.text' => 'De bevoegdheden in je inhoud map zijn niet juist toegekend. Verander alstublieft de bevoegdheden voor alle mappen naar  <strong>0755</strong> en voor alle bestanden naar <strong>0666</strong>',
+  'home.warning.permissions.text' => 'De bevoegdheden in uw content map zijn niet juist toegekend. Verander alstublieft de bevoegdheden voor alle mappen naar  <strong>0755</strong> en voor alle bestanden naar <strong>0666</strong>',
   'home.warning.blueprints.title' => 'Blauwdrukken',
   'home.warning.blueprints.text' => 'Er zijn geen blauwdrukken aanwezig voor de volgende sjablonen<br /> Lees meer over <a href="http://getkirby.com/panel/blueprints">how to install blueprints for your templates</a>',
   'home.warning.thumbs.title' => 'Thumbnails',
-  'home.warning.thumbs.text' => 'Voeg een <strong>thumbs</strong> map toe in de hoofd map van je site en verander de bevoegdheden ervan naar <strong>0755</strong>',
+  'home.warning.thumbs.text' => 'Voeg een <strong>thumbs</strong> map toe in de hoofd map van uw site en verander de bevoegdheden ervan naar <strong>0755</strong>',
   
   // siteinfo
   'siteinfo.button' => 'Bewaar',
@@ -93,7 +93,7 @@ l::set(array(
   'pages.add.label.template' => 'Sjabloon',
   'pages.add.button' => 'Bewaar',
   'pages.add.errors.title' => 'AUB een titel toevoegen',
-  'pages.add.errors.url' => 'AUB een URL voor je pagina toevoegen',
+  'pages.add.errors.url' => 'AUB een URL voor uw pagina toevoegen',
   'pages.add.errors.characters' => 'Gebruik alstublieft alleen de volgende karakters a-z, 0-9, _, - voor de URL',
   'pages.add.errors.exists' => 'Een pagina met die url bestaat al',
   'pages.add.errors.permissions' => 'De map kon niet worden gemaakt',
