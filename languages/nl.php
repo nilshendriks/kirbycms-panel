@@ -1,5 +1,9 @@
 <?php
 
+/* 
+* author: Nils Hendriks <http://nirusu.me>
+*/
+
 l::set(array(
   
   // global 
@@ -17,7 +21,7 @@ l::set(array(
   'subheader.info' => 'Info',
 
   // tabs
-  'tabs.overview' => 'Overview',
+  'tabs.overview' => 'Overzicht',
   'tabs.info' => 'Bewerk Info',
   'tabs.content' => 'Inhoud',
   'tabs.files' => 'Bestanden',
